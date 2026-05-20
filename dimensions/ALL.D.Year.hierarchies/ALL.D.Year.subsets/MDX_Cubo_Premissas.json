@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"MDX_Cubo_Premissas",
+	"Alias":"MEMBER_NAME",
+	"Expression":"TM1IGNORE_BADTUPLES {STRTOMEMBER(\"[ALL.D.Year].[ALL.D.Year].[\" + [ALL.100.Assumptions_Upload].([ALL.D.100.Assumptions_Upload].[ALL.D.100.Assumptions_Upload].[Planning Start Year],[ALLM.100.Assumptions_Upload].[ALLM.100.Assumptions_Upload].[Value]) + \"]\")}"
+}

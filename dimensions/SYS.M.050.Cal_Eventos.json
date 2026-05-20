@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"SYS.M.050.Cal_Eventos",
+	"Hierarchies@Code.links":
+	[
+		"SYS.M.050.Cal_Eventos.hierarchies/SYS.M.050.Cal_Eventos.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('SYS.M.050.Cal_Eventos')/Hierarchies('SYS.M.050.Cal_Eventos')"
+	}
+}

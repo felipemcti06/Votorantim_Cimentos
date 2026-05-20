@@ -1,0 +1,17 @@
+{
+	"@type":"Subset",
+	"Name":"Cement Group",
+	"Alias":"Código e Descrição",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODCE010')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODCE011')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODCE012')"
+		}
+	]
+}

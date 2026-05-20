@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"CAPEX",
+	"Alias":"Descrição",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ALL.D.Account_Line')/Hierarchies('ALL.D.Account_Line')/Elements('ACL.FCF.030.002')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Account_Line')/Hierarchies('ALL.D.Account_Line')/Elements('ACL.FCF.030.001')"
+		}
+	]
+}

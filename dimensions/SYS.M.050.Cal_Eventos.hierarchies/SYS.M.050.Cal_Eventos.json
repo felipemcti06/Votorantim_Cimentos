@@ -1,0 +1,28 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.M.050.Cal_Eventos",
+	"Elements":
+	[
+		{
+			"Name":"TipoEvento",
+			"Type":"String"
+		},
+		{
+			"Name":"RotuloEvento",
+			"Type":"String"
+		},
+		{
+			"Name":"Ativo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Disparo_Email",
+			"Type":"String"
+		},
+		{
+			"Name":"Versão",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

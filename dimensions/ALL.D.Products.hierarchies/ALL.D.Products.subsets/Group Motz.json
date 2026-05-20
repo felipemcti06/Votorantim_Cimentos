@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"Group Motz",
+	"Alias":"Código e Descrição",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODMZ010')"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"@type":"MDXView",
+	"Name":"View_Exporte",
+	"MDX@Code.link":"View_Exporte.mdx",
+	"Meta": {
+		"Aliases": {
+			"[ALL.D.Month].[ALL.D.Month]": "Desc",
+			"[ALL.D.Version].[ALL.D.Version]": "MEMBER_NAME"
+		},
+		"ExpandAboves": {
+			"[ALL.D.Assumptions].[ALL.D.Assumptions]": false,
+			"[ALL.D.Month].[ALL.D.Month]": false,
+			"[ALL.M.010.Economic_Assumptions].[ALL.M.010.Economic_Assumptions]": false,
+			"[ALL.D.Year].[ALL.D.Year]": false,
+			"[ALL.D.Version].[ALL.D.Version]": false
+		},
+		"ContextSets": {
+			"[ALL.D.Assumptions].[ALL.D.Assumptions]": {
+				"Expression": "{[ALL.D.Assumptions].[ALL.D.Assumptions].MEMBERS}"
+			},
+			"[ALL.M.010.Economic_Assumptions].[ALL.M.010.Economic_Assumptions]": {
+				"Expression": "{[ALL.M.010.Economic_Assumptions].[ALL.M.010.Economic_Assumptions].MEMBERS}"
+			},
+			"[ALL.D.Version].[ALL.D.Version]": {
+				"SubsetName": "Default",
+				"IsPublic": true
+			}
+		}
+	},
+	"ViewExtractSkipRuleValues": false,
+	"ViewExtractSkipConsolidatedValues": true,
+	"ViewExtractSkipZeroes": true,
+	"IsSuppressComputeOnOpen": false,
+	"IsAutocalculate": true,
+	"IsDeferComputeOnLeafDataEntry": false
+}

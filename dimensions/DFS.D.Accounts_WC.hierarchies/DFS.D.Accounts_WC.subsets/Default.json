@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Alias":"Description",
+	"Expression":"TM1IGNORE_BADTUPLES {DRILLDOWNMEMBER({[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.002]} , {[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.002],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.001],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.005]} , RECURSIVE),DRILLDOWNMEMBER({[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.003]} , {[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.003],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.004],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.009]} , RECURSIVE),[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.030.001],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.006],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.007],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.099.008],[DFS.D.Accounts_WC].[DFS.D.Accounts_WC].[WKC.030.003]}"
+}

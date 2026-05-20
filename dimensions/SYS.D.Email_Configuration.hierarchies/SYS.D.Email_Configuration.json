@@ -1,0 +1,32 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.D.Email_Configuration",
+	"Elements":
+	[
+		{
+			"Name":"Email_Provider",
+			"Type":"String"
+		},
+		{
+			"Name":"Tenant_ID",
+			"Type":"String"
+		},
+		{
+			"Name":"Client_ID",
+			"Type":"String"
+		},
+		{
+			"Name":"Client_Secret",
+			"Type":"String"
+		},
+		{
+			"Name":"Token_URL",
+			"Type":"String"
+		},
+		{
+			"Name":"Token_URL_Full",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

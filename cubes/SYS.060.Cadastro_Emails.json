@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"SYS.060.Cadastro_Emails",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('SYS.D.Email')"
+		},
+		{
+			"@id":"Dimensions('SYS.M.060.Cadastro_Emails')"
+		}
+	],
+	"Views@Code.links":[]
+}

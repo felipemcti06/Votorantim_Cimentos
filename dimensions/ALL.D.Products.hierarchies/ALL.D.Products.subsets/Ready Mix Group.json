@@ -1,0 +1,26 @@
+{
+	"@type":"Subset",
+	"Name":"Ready Mix Group",
+	"Alias":"Código e Descrição",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODRM010')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODRM011')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODRM012')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODRM013')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODRM014')"
+		},
+		{
+			"@id":"Dimensions('ALL.D.Products')/Hierarchies('ALL.D.Products')/Elements('PRODRM015')"
+		}
+	]
+}

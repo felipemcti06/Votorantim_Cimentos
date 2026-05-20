@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"SYS.M.980.Email_Configuration",
+	"Hierarchies@Code.links":
+	[
+		"SYS.M.980.Email_Configuration.hierarchies/SYS.M.980.Email_Configuration.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('SYS.M.980.Email_Configuration')/Hierarchies('SYS.M.980.Email_Configuration')"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"SYS.D.Email",
+	"Hierarchies@Code.links":
+	[
+		"SYS.D.Email.hierarchies/SYS.D.Email.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('SYS.D.Email')/Hierarchies('SYS.D.Email')"
+	}
+}

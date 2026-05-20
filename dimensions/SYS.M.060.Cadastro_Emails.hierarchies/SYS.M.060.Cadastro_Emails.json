@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.M.060.Cadastro_Emails",
+	"Elements":
+	[
+		{
+			"Name":"Email",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

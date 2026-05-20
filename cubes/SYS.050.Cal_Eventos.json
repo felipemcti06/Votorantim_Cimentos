@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"SYS.050.Cal_Eventos",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('SYS.D.Cal_Ano')"
+		},
+		{
+			"@id":"Dimensions('SYS.D.Cal_Mes')"
+		},
+		{
+			"@id":"Dimensions('SYS.D.Cal_Dia')"
+		},
+		{
+			"@id":"Dimensions('SYS.M.050.Cal_Eventos')"
+		}
+	],
+	"Views@Code.links":[]
+}

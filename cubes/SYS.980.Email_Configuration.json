@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"SYS.980.Email_Configuration",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('SYS.D.Email_Configuration')"
+		},
+		{
+			"@id":"Dimensions('SYS.M.980.Email_Configuration')"
+		}
+	],
+	"Views@Code.links":[]
+}

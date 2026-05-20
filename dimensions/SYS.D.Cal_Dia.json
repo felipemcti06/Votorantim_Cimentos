@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"SYS.D.Cal_Dia",
+	"Hierarchies@Code.links":
+	[
+		"SYS.D.Cal_Dia.hierarchies/SYS.D.Cal_Dia.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('SYS.D.Cal_Dia')/Hierarchies('SYS.D.Cal_Dia')"
+	}
+}

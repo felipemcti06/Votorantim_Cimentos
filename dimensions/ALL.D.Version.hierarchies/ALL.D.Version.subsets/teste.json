@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"teste",
+	"Alias":"Descrição",
+	"Expression":"TM1IGNORE_BADTUPLES {STRTOMEMBER(\"[ALL.D.Version].[ALL.D.Version].[\" + [ALL.100.Assumptions_Upload].([ALL.D.100.Assumptions_Upload].[ALL.D.100.Assumptions_Upload].[Current Version Planning],[ALLM.100.Assumptions_Upload].[ALLM.100.Assumptions_Upload].[Value]) + \"]\")}"
+}
